@@ -4,4 +4,8 @@ hi2
 
 hi3 on gk1
 
+<<<<<<< HEAD
 gk2 branch new
+=======
+HI4 FOR GK1 MERGE DIRECTLY WITH MASTER
+>>>>>>> caf986296a172533c4c0f8412ec80f7ef5b094da
